@@ -1,0 +1,4 @@
+node_modules
+.idea
+images/art_crop/*
+images/small/*
