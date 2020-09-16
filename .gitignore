@@ -2,3 +2,4 @@ node_modules
 .idea
 images/art_crop/*
 images/small/*
+images/art_crop_cropped/*
